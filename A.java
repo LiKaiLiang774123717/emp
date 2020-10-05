@@ -1,4 +1,5 @@
 public class A {
- private int id;
- private String name;
+   private int id;
+   private String name;
+   private String pwd;
 }
